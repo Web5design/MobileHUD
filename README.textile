@@ -11,6 +11,7 @@ DroidHUD is a combined hardware/software project to realize a heads-up-display f
 
 * View incoming caller ID (Name/Number)
 * View incoming text/SMS messages
+* Answer incoming calls
 * Activate Android's voice dialer
 * Activate Android's speech-to-text function for SMS message replies
 * View battery and signal (RSSI) indicators while idle
