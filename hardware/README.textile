@@ -1,0 +1,10 @@
+h1. DroidHUD Hardware
+
+This is the README file for the DroidHUB hardware directory.
+
+This directory contains hardware design files for the hardware portion of the DroidHUD project.
+
+* The hw-controller/ directory contains schematic and PCB layout files for the DroidHUD controller module.
+* The hw-display/ directory contains schematic and PCB layout files for the DroidHUD display module.
+
+Design documents for DroidHUD hardware can be found in the DroidHUD wiki's "Hardware section":https://github.com/davidrea/DroidHUD/wiki/Hardware-Design.
