@@ -877,7 +877,8 @@ Sensor</y:NodeLabel>
           <y:Geometry height="15.0" width="120.0" x="665.5" y="148.125"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="95.2890625" x="12.35546875" y="-1.484375">8x8 LED Matrix</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="internal" modelPosition="tl" textColor="#000000" visible="true" width="113.40625" x="4.0" y="4.0">8x8 LED Matrix
+(up to 3 per node)</y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
