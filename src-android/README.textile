@@ -1,0 +1,5 @@
+h1. MobileHUD Android Application
+
+This is the README file for the MobileHUD Android Application directory.
+
+This directory contains an Android ADT (Eclipse) project that provides a software event and configuration interface to the MobileHUD hardware. The MobileHUD Android application communicates with MobileHUD hardware via the Bluetooth SPP (Serial Port) profile, sending data to be displayed and receiving data collected by the MobileHUD's sensors.

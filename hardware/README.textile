@@ -1,6 +1,6 @@
 h1. MobileHUD Hardware
 
-This is the README file for the DroidHUB hardware directory.
+This is the README file for the MobileHUD hardware directory.
 
 This directory contains hardware design files for the hardware portion of the MobileHUD project.
 
