@@ -1,13 +1,13 @@
 <pre>
- _____            _     _ _    _ _    _ _____  
-|  __ \          (_)   | | |  | | |  | |  __ \ 
-| |  | |_ __ ___  _  __| | |__| | |  | | |  | |
-| |  | | '__/ _ \| |/ _` |  __  | |  | | |  | |
-| |__| | | | (_) | | (_| | |  | | |__| | |__| |
-|_____/|_|  \___/|_|\__,_|_|  |_|\____/|_____/
+  __  __       _     _ _      _    _ _    _ _____  
+ |  \/  |     | |   (_) |    | |  | | |  | |  __ \ 
+ | \  / | ___ | |__  _| | ___| |__| | |  | | |  | |
+ | |\/| |/ _ \| '_ \| | |/ _ \  __  | |  | | |  | |
+ | |  | | (_) | |_) | | |  __/ |  | | |__| | |__| |
+ |_|  |_|\___/|_.__/|_|_|\___|_|  |_|\____/|_____/ 
 </pre>
 
-DroidHUD is a combined hardware/software project to realize a heads-up-display for minimal interaction with an Android handset while driving. DroidHUD is an inverted multi-character LED matrix display that allows users to accomplish all of the following without taking their eyes off the road:
+MobileHUD is a combined hardware/software project to realize a heads-up-display for minimal interaction with an Android handset while driving. MobileHUD is an inverted multi-character LED matrix display that allows users to accomplish all of the following without taking their eyes off the road:
 
 * View incoming caller ID (Name/Number)
 * View incoming text/SMS messages
@@ -16,8 +16,8 @@ DroidHUD is a combined hardware/software project to realize a heads-up-display f
 * Activate Android's speech-to-text function for SMS message replies
 * View battery and signal (RSSI) indicators while idle
 
-An actual DroidHUD device consists of a controller module containing a [TBD] microcontroller, along with several daisy-chained display modules, each of which contains one or more 8x8 character LED matrix displays. When placed on a car's dashboard, the display modules show inverted characters which reflect in the windshield glass and are visible to the driver. Depending on the placement of the hardware, the reflected characters appear either within or below the driver's normal field of view, so that the driver can read them without looking away from the road.
+An actual MobileHUD device consists of a controller module containing a [TBD] microcontroller, along with several daisy-chained display modules, each of which contains one or more 8x8 character LED matrix displays. When placed on a car's dashboard, the display modules show inverted characters which reflect in the windshield glass and are visible to the driver. Depending on the placement of the hardware, the reflected characters appear either within or below the driver's normal field of view, so that the driver can read them without looking away from the road.
 
-Various research studies have indicated that the use of a heads-up display for mobile phone interaction improves driver responsiveness and reduces the incidence of adverse events due to driver distraction. For more information, see "Cell Phone Ring  Suppression and  HUD  Caller  ID: Effectiveness in  Reducing  Momentary Driver Distraction  Under  Varying Workload Levels":http://deepblue.lib.umich.edu/bitstream/2027.42/1501/2/96236.0001.001.pdf by Nowakowski, et. al., and "Display of  short  text messages  on  automotive  HUDs:  Effects  of  driving workload  and  message location":http://www.umich.edu/~driving/publications/UMTRI-2000-13.pdf. It is our hope that development of DroidHUD can make driving safer for everyone by enabling minimal mobile phone interaction while minimizing visual distraction.
+Various research studies have indicated that the use of a heads-up display for mobile phone interaction improves driver responsiveness and reduces the incidence of adverse events due to driver distraction. For more information, see "Cell Phone Ring  Suppression and  HUD  Caller  ID: Effectiveness in  Reducing  Momentary Driver Distraction  Under  Varying Workload Levels":http://deepblue.lib.umich.edu/bitstream/2027.42/1501/2/96236.0001.001.pdf by Nowakowski, et. al., and "Display of  short  text messages  on  automotive  HUDs:  Effects  of  driving workload  and  message location":http://www.umich.edu/~driving/publications/UMTRI-2000-13.pdf. It is our hope that development of MobileHUD can make driving safer for everyone by enabling minimal mobile phone interaction while minimizing visual distraction.
 
-*Disclaimer:* Any user of DroidHUD hardware or software, or any derivative implementation thereof, takes full responsibility for their actions while operating a vehicle. DroidHUD is intended to minimize the distractive impact of mobile phone use while driving, but cannot compensate for irresponsible behavior. As such users of DroidHUD software and DroidHUD-based devices, in downloading the DroidHUD software and using the DroidHUD hardware, agree that they use the hardware and software at their own risk, and grant the developers of DroidHUD, their successors and assigns, and the developers of any derivative products based on the open artifacts of the DroidHUD Project, an unconditional, intermitable, immutable waiver of any and all liability in connection with the user's use of the DroidHUD software and hardware. DroidHUD comes with NO WARRANTY, expressed or implied, not even a warranty of merchentability or fitness for a particular purpose.
+*Disclaimer:* Any user of MobileHUD hardware or software, or any derivative implementation thereof, takes full responsibility for their actions while operating a vehicle. MobileHUD is intended to minimize the distractive impact of mobile phone use while driving, but cannot compensate for irresponsible behavior. As such users of MobileHUD software and MobileHUD-based devices, in downloading the MobileHUD software and using the MobileHUD hardware, agree that they use the hardware and software at their own risk, and grant the developers of MobileHUD, their successors and assigns, and the developers of any derivative products based on the open artifacts of the MobileHUD Project, an unconditional, intermitable, immutable waiver of any and all liability in connection with the user's use of the MobileHUD software and hardware. MobileHUD comes with NO WARRANTY, expressed or implied, not even a warranty of merchentability or fitness for a particular purpose.
